@@ -1,4 +1,4 @@
-R5T.Alamania.Base - A base library for Alamania Rivet Dropbox directory functionality.
+R5T.Alamania.Base - A base library for IRivetOrganizationDirectoryPathProvider functionality.
 
 Goals
 
