@@ -1,5 +1,4 @@
 # Custom for us
-**/.vscode/
 **/ts/**/*.js
 **/ts/**/*.js.map
 **/wwwroot/ts-out/
